@@ -1,4 +1,4 @@
-# Nano GPT Lab: Causal Self-Attention From Scratch 🧠
+# Nano GPT Lab: Causal Self-Attention From Scratch
 
 A minimal, highly educational from-scratch implementation of a **GPT (Generative Pre-trained Transformer)** language model architecture using **PyTorch**. This project was built to demystify the inner mathematical workings of autoregressive language models.
 
